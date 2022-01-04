@@ -1,1 +1,2 @@
 # smbd
+Cd smbd
